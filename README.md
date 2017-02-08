@@ -5,3 +5,4 @@ Simacogo is a simplified mashup that merges two games: Connect4 and Go. It is pl
 
 Human player: O, Agent: X
 
+![](https://github.com/timzhang642/Simacogo-with-Adversrial-Search/blob/master/simacogo.gif)
